@@ -10,4 +10,7 @@
     <releaseNotes>Initial Release</releaseNotes>
     <copyright>Copyright 2013</copyright>
   </metadata>
+<files>
+<file src="Content\*.*" target="Content"/>
+</files>
 </package>
