@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AspNetAppOfflineTemplate</id>
+    <version>1.0.0</version>
+    <authors>EricHexter</authors>
+    <owners>EricHexter</owners>
+    <projectUrl>https://github.com/erichexter/ASPNetAppOfflineTemplate</projectUrl>
+    <description>This is a template for a ASP.Net App Offline file</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+  </metadata>
+</package>
